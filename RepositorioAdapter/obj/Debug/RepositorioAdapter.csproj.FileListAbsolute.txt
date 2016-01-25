@@ -1,0 +1,20 @@
+C:\Users\luis\documents\visual studio 2015\Projects\ApiContactos\RepositorioAdapter\bin\Debug\RepositorioAdapter.dll.config
+C:\Users\luis\documents\visual studio 2015\Projects\ApiContactos\RepositorioAdapter\bin\Debug\RepositorioAdapter.dll
+C:\Users\luis\documents\visual studio 2015\Projects\ApiContactos\RepositorioAdapter\bin\Debug\RepositorioAdapter.pdb
+C:\Users\luis\documents\visual studio 2015\Projects\ApiContactos\RepositorioAdapter\bin\Debug\EntityFramework.dll
+C:\Users\luis\documents\visual studio 2015\Projects\ApiContactos\RepositorioAdapter\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\luis\documents\visual studio 2015\Projects\ApiContactos\RepositorioAdapter\bin\Debug\EntityFramework.xml
+C:\Users\luis\documents\visual studio 2015\Projects\ApiContactos\RepositorioAdapter\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\luis\documents\visual studio 2015\Projects\ApiContactos\RepositorioAdapter\obj\Debug\RepositorioAdapter.csprojResolveAssemblyReference.cache
+C:\Users\luis\documents\visual studio 2015\Projects\ApiContactos\RepositorioAdapter\obj\Debug\RepositorioAdapter.dll
+C:\Users\luis\documents\visual studio 2015\Projects\ApiContactos\RepositorioAdapter\obj\Debug\RepositorioAdapter.pdb
+C:\Users\Alumno\Source\Repos\ApiContactos2016XamGuay\RepositorioAdapter\bin\Debug\RepositorioAdapter.dll.config
+C:\Users\Alumno\Source\Repos\ApiContactos2016XamGuay\RepositorioAdapter\bin\Debug\RepositorioAdapter.dll
+C:\Users\Alumno\Source\Repos\ApiContactos2016XamGuay\RepositorioAdapter\bin\Debug\RepositorioAdapter.pdb
+C:\Users\Alumno\Source\Repos\ApiContactos2016XamGuay\RepositorioAdapter\bin\Debug\EntityFramework.dll
+C:\Users\Alumno\Source\Repos\ApiContactos2016XamGuay\RepositorioAdapter\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Alumno\Source\Repos\ApiContactos2016XamGuay\RepositorioAdapter\bin\Debug\EntityFramework.xml
+C:\Users\Alumno\Source\Repos\ApiContactos2016XamGuay\RepositorioAdapter\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Alumno\Source\Repos\ApiContactos2016XamGuay\RepositorioAdapter\obj\Debug\RepositorioAdapter.csprojResolveAssemblyReference.cache
+C:\Users\Alumno\Source\Repos\ApiContactos2016XamGuay\RepositorioAdapter\obj\Debug\RepositorioAdapter.dll
+C:\Users\Alumno\Source\Repos\ApiContactos2016XamGuay\RepositorioAdapter\obj\Debug\RepositorioAdapter.pdb
